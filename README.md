@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Archivo+Black&size=42&duration=4000&pause=1000&color=FFB000&center=true&vCenter=true&width=480&height=60&repeat=false&lines=HEY%2C+I'M+RAVI" alt="name" />
+<img src="https://readme-typing-svg.demolab.com/?font=Archivo+Black&size=42&duration=4000&pause=1000&color=FFB000&center=true&vCenter=true&width=480&height=60&repeat=false&lines=hey%2C+i'm+RAVI" alt="name" />
 
 <sub><b>AI CREATIVE ENGINEER</b></sub>
 
@@ -12,29 +12,62 @@
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-<sub><b>FRONTEND & DESIGN</b></sub><br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Archivo+Black&size=16&duration=1&pause=999999&color=FFB000&center=true&vCenter=true&width=300&height=35&repeat=false&lines=FRONTEND+%26+DESIGN" alt="Frontend & Design" />
+
+<br/>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma,photoshop,illustrator&theme=dark" />
 
-<br/><br/>
+</div>
 
-<sub><b>BACKEND & DEV</b></sub><br/>
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Archivo+Black&size=16&duration=1&pause=999999&color=FFB000&center=true&vCenter=true&width=300&height=35&repeat=false&lines=BACKEND+%26+DEV" alt="Backend & Dev" />
+
+<br/>
+
 <img src="https://skillicons.dev/icons?i=nodejs,python,git,github,vscode,vercel,netlify&theme=dark" />
 
-<br/><br/>
+</div>
 
-<sub><b>AI & AUTOMATION</b></sub><br/>
-<sub>OpenAI · Gemini · Claude · n8n · Zapier · Make</sub>
+---
 
-<br/><br/>
+<div align="center">
 
-<sub><b>CREATIVE TOOLS</b></sub><br/>
-<sub>DaVinci Resolve · CapCut · Canva</sub>
+<img src="https://readme-typing-svg.demolab.com/?font=Archivo+Black&size=16&duration=1&pause=999999&color=FFB000&center=true&vCenter=true&width=300&height=35&repeat=false&lines=AI+%26+AUTOMATION" alt="AI & Automation" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-FFB000?style=flat-square&logo=anthropic&logoColor=black"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white"/>
+<img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white"/>
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Archivo+Black&size=16&duration=1&pause=999999&color=FFB000&center=true&vCenter=true&width=300&height=35&repeat=false&lines=CREATIVE+TOOLS" alt="Creative Tools" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white"/>
+<img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+
+</div>
+
+---
 
 <br/>
 
@@ -47,14 +80,12 @@
 <br/>
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rav-builds&show_icons=true&theme=transparent&title_color=FFB000&icon_color=FFB000&text_color=ffffff&bg_color=00000000&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rav-builds&layout=compact&theme=transparent&title_color=FFB000&text_color=ffffff&bg_color=00000000&hide_border=true" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rav-builds&theme=transparent&hide_border=true&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-rav--builds-FFB000?style=for-the-badge&logo=github&logoColor=000&labelColor=0D0D0D)](https://github.com/rav-builds)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFB000?style=for-the-badge&logo=linkedin&logoColor=000&labelColor=0D0D0D)](https://www.linkedin.com/in/ravi-kumar-singh-3a0157397/)
 <img src="https://komarev.com/ghpvc/?username=rav-builds&color=FFB000&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D0D0D" />
 
+<img src="https://media1.tenor.com/m/_xG2Vb6NEMsAAAAC/among-us-amogus.gif" width="25%"/>
 </div>
