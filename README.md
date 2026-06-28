@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./rav-builds.gif" width="100%" alt="Ravi Kumar Singh — AI Creative Engineer"/>
+<img src="./rav.gif" width="100%" alt="Ravi Kumar Singh — AI Creative Engineer"/>
 
 <br/>
 
